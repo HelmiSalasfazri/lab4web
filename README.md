@@ -55,7 +55,7 @@
 ```
 
 * model header dan nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout$201.png)
+![internal](img/layout%201.png)
 
 ## 3. Membuat Layout Lanjutan
 * selanjutnya membuat nav dan hero wrapper Html Lanjutan 
