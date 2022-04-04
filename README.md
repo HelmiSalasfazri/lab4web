@@ -113,7 +113,7 @@ body {
         </section>
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout3.png)
+![internal](img/layout%204.png)
 
 ## 4. Membuat Layout Lanjutan
 * selanjutnya membuat widget Html Lanjutan 
